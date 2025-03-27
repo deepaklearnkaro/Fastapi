@@ -1,7 +1,7 @@
 import psycopg2
 from psycopg2.extras import RealDictCursor
 
-DATABASE_URL = "postgresql://neondb_owner:your_password@ep-silent-hat-a4oyw4en-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require"
+DATABASE_URL = =postgresql://studdb_owner:npg_ojDk0aBts1xQ@ep-black-smoke-a4l2d9e5-pooler.us-east-1.aws.neon.tech/studdb?sslmode=require
 
 def get_connection():
     try:
